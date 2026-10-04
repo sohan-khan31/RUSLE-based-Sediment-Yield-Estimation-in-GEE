@@ -1,1 +1,0 @@
-# RUSLE-based-Sediment-Yield-Estimation-in-GEE
