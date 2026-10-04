@@ -97,13 +97,13 @@ After archiving a release in Zenodo, add the software DOI here as well:
 
 ## Authors
 
-Md Sohan Khan
+**Md Sohan Khan**,
 Junior Research Fellow (JRF), Agro-Hydro Division, Bangladesh Space Research and Remote Sensing Organization (SPARRSO), Agargaon, Sher-E-Bangla Nagar, Dhaka – 1207, Bangladesh
 E-mail: sohan31du@gmail.com
 
 
-B. M. Refat Faisal
-Corresponding author
+**B. M. Refat Faisal**,
+Corresponding author,
 Principal Scientific Officer (PSO), Bangladesh Space Research and Remote Sensing Organization (SPARRSO), Agargaon, Sher-E-Bangla Nagar, Dhaka – 1207, Bangladesh
 Email: refatfaisal@yahoo.com
 
