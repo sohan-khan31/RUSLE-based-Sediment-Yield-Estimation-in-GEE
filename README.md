@@ -93,7 +93,7 @@ If you use this code, please cite the associated journal article:
 
 After archiving a release in Zenodo, add the software DOI here as well:
 
-> Software DOI: [Add Zenodo DOI]
+> Software DOI: https://doi.org/10.5281/zenodo.23145698
 
 ## Authors
 
