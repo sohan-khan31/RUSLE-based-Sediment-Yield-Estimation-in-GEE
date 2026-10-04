@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "RUSLE-based Sediment Yield Estimation in Google Earth Engine"
+version: "1.0.0"
+date-released: 2026-10-04
+
+authors:
+  - family-names: "Khan"
+    given-names: "Md Sohan"
+    orcid: "https://orcid.org/0000-0001-8517-9588"
+
+  - family-names: "Faisal"
+    given-names: "B. M. Refat"
+
+repository-code: "https://github.com/sohan-khan31/RUSLE-based-Sediment-Yield-Estimation-in-GEE"
